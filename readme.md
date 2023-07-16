@@ -15,7 +15,8 @@ curl -fsSL https://get.pulumi.com | sh
 ### Configurando Pulumi para acessar a sua conta AWS
 
 ```bash
-export AWS_ACCESS_KEY_ID=<YOUR_ACCESS_KEY_ID> && export AWS_SECRET_ACCESS_KEY=<YOUR_SECRET_ACCESS_KEY>
+export AWS_ACCESS_KEY_ID=<YOUR_ACCESS_KEY_ID> 
+export AWS_SECRET_ACCESS_KEY=<YOUR_SECRET_ACCESS_KEY>
 ```
 
 ### Setup 
