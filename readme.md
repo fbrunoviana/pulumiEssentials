@@ -218,4 +218,4 @@ Assim voce pode executar o comando:
 pulumi up
 ```
 
-E ver a magica acontecer.
+E veja a magica acontecer.
