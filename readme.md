@@ -1,5 +1,5 @@
 ## Pulumi & AWS - Como esse arquivo foi escrito
-
+## Guelo
 ### Instalacao do Pulumi
 
 MacOS: 
@@ -219,4 +219,4 @@ Assim voce pode executar o comando:
 pulumi up
 ```
 
-E veja a magica acontecer.
+E veja a magica acontecer, guelo.
